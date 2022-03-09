@@ -50,15 +50,18 @@ query questionData($titleSlug: String!) {
 
     return response.text
 
-
 def loop_csv():
     with open('leetcode.csv', newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         next(reader, None)
         for row in reader:
             slug = (row[1].split('/')[-1])
-            print(get_data(slug))
-            time.sleep(3)
-            # print(slug)
+            write_to_file(get_data(slug))
+            time.sleep(2)
+
+def write_to_file(data):
+  with open("out.json", "a") as myfile:
+    myfile.write(data+'\n')
+
 
 loop_csv()
