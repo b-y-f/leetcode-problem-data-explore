@@ -1,0 +1,201 @@
+,question.questionId,question.title,question.isPaidOnly,question.difficulty,like ratio
+1234,1352,Maximum Profit in Job Scheduling,False,Hard,0.9894493900428618
+1142,1250,Longest Common Subsequence,False,Medium,0.9888607594936709
+71,72,Edit Distance,False,Hard,0.9883500063315183
+967,1008,Binary Tree Cameras,False,Hard,0.9870841487279843
+207,208,Implement Trie (Prefix Tree),False,Medium,0.9870091085560699
+225,226,Invert Binary Tree,False,Easy,0.9868070531523532
+1003,1046,Max Consecutive Ones III,False,Medium,0.9865492785522133
+63,64,Minimum Path Sum,False,Medium,0.9864494738359522
+41,42,Trapping Rain Water,False,Hard,0.9859365994236311
+991,1034,Subarrays with K Different Integers,False,Hard,0.9858657243816255
+83,84,Largest Rectangle in Histogram,False,Hard,0.9854193273733504
+336,337,House Robber III,False,Medium,0.9848808545603944
+415,416,Partition Equal Subset Sum,False,Medium,0.9844123016430276
+77,78,Subsets,False,Medium,0.9843980602993886
+582,583,Delete Operation for Two Strings,False,Medium,0.9841329807329052
+285,286,Walls and Gates,True,Medium,0.9839500668747213
+105,106,Construct Binary Tree from Inorder and Postorder Traversal,False,Medium,0.9836715651971075
+1276,1402,Count Square Submatrices with All Ones,False,Medium,0.9835651074589128
+84,85,Maximal Rectangle,False,Hard,0.9835319949811794
+631,632,Smallest Range Covering Elements from K Lists,False,Hard,0.9834630350194552
+894,931,Maximum Frequency Stack,False,Hard,0.9833597464342314
+205,206,Reverse Linked List,False,Easy,0.9833047558884577
+1007,1050,Construct Binary Search Tree from Preorder Traversal,False,Medium,0.9832272990167727
+982,1025,Minimum Cost For Tickets,False,Medium,0.9831814996496145
+328,329,Longest Increasing Path in a Matrix,False,Hard,0.9830946698488464
+239,240,Search a 2D Matrix II,False,Medium,0.9828875467356917
+365,366,Find Leaves of Binary Tree,True,Medium,0.9828054298642533
+212,213,House Robber II,False,Medium,0.9824422963109094
+945,983,Validate Stack Sequences,False,Medium,0.9823045267489712
+45,46,Permutations,False,Medium,0.9817161853313942
+294,295,Find Median from Data Stream,False,Hard,0.981706379707917
+103,104,Maximum Depth of Binary Tree,False,Easy,0.9816193224973416
+1248,1371,Minimum Remove to Make Valid Parentheses,False,Medium,0.9813714902807775
+1208,1320,Remove All Adjacent Duplicates in String II,False,Medium,0.9809145129224652
+1091,1170,Shortest Common Supersequence ,False,Hard,0.9807881773399014
+46,47,Permutations II,False,Medium,0.9807815502882767
+128,129,Sum Root to Leaf Numbers,False,Medium,0.9807355516637478
+229,230,Kth Smallest Element in a BST,False,Medium,0.9806763285024155
+299,300,Longest Increasing Subsequence,False,Medium,0.9806543639119194
+252,253,Meeting Rooms II,True,Medium,0.9804548017289983
+870,902,Minimum Number of Refueling Stops,False,Hard,0.9804248229904207
+101,102,Binary Tree Level Order Traversal,False,Medium,0.980318039624609
+517,518,Coin Change 2,False,Medium,0.9797959183673469
+985,1028,Interval List Intersections,False,Medium,0.9797130133597229
+1364,1482,How Many Numbers Are Smaller Than the Current Number,False,Easy,0.9796954314720813
+173,174,Dungeon Game,False,Hard,0.9796282149223325
+862,893,All Nodes Distance K in Binary Tree,False,Medium,0.9795573576617672
+220,221,Maximal Square,False,Medium,0.9794717197817973
+122,123,Best Time to Buy and Sell Stock III,False,Hard,0.9794557577941971
+1093,1184,Car Pooling,False,Medium,0.9789368104312939
+826,854,Making A Large Island,False,Hard,0.9788213627992634
+197,198,House Robber,False,Medium,0.9787873582961182
+38,39,Combination Sum,False,Medium,0.9787130163070012
+406,407,Trapping Rain Water II,False,Hard,0.978310502283105
+539,540,Single Element in a Sorted Array,False,Medium,0.9777823493108414
+738,739,Daily Temperatures,False,Medium,0.9774188724390609
+112,113,Path Sum II,False,Medium,0.9770419426048566
+833,863,Sum of Distances in Tree,False,Hard,0.9768480909829407
+1305,1428,Jump Game III,False,Medium,0.9766536964980544
+1010,1056,Capacity To Ship Packages Within D Days,False,Medium,0.9766200762388818
+885,922,Possible Bipartition,False,Medium,0.9764434180138568
+717,718,Maximum Length of Repeated Subarray,False,Medium,0.976313640076232
+321,322,Coin Change,False,Medium,0.976255794153817
+131,132,Palindrome Partitioning II,False,Hard,0.9761757425742574
+99,100,Same Tree,False,Easy,0.9761681366109964
+1045,1127,Last Stone Weight,False,Easy,0.9761092150170648
+199,200,Number of Islands,False,Medium,0.9758906633906634
+677,678,Valid Parenthesis String,False,Medium,0.975811390079608
+875,908,Middle of the Linked List,False,Easy,0.9757281553398058
+100,101,Symmetric Tree,False,Easy,0.9757120777213513
+353,354,Russian Doll Envelopes,False,Hard,0.9756592292089249
+260,261,Graph Valid Tree,True,Medium,0.9755137735024049
+703,792,Binary Search,False,Easy,0.9753315649867375
+861,892,Shortest Subarray with Sum at Least K,False,Hard,0.9751887810140237
+646,647,Palindromic Substrings,False,Medium,0.9751836734693877
+108,109,Convert Sorted List to Binary Search Tree,False,Medium,0.9749039113723716
+104,105,Construct Binary Tree from Preorder and Inorder Traversal,False,Medium,0.9748731278623592
+694,695,Max Area of Island,False,Medium,0.9747510668563301
+39,40,Combination Sum II,False,Medium,0.9745676500508647
+713,714,Best Time to Buy and Sell Stock with Transaction Fee,False,Medium,0.9740466101694916
+311,312,Burst Balloons,False,Hard,0.9736660929432014
+282,283,Move Zeroes,False,Easy,0.9735351901074771
+50,51,N-Queens,False,Hard,0.9734432234432234
+215,216,Combination Sum III,False,Medium,0.9731518940787054
+434,435,Non-overlapping Intervals,False,Medium,0.9729004561309365
+1025,1092,Maximum Difference Between Node and Ancestor,False,Medium,0.9727508650519031
+566,567,Permutation in String,False,Medium,0.9725017972681524
+409,410,Split Array Largest Sum,False,Hard,0.9723371814419517
+33,34,Find First and Last Position of Element in Sorted Array,False,Medium,0.9723148428816814
+813,832,Binary Tree Pruning,False,Medium,0.9721753794266442
+314,315,Count of Smaller Numbers After Self,False,Hard,0.9720774385703649
+1109,1207,Delete Nodes And Return Forest,False,Medium,0.9718817591925017
+855,886,Score of Parentheses,False,Medium,0.97184
+235,236,Lowest Common Ancestor of a Binary Tree,False,Medium,0.9717624148003895
+451,452,Minimum Number of Arrows to Burst Balloons,False,Medium,0.9716228199822643
+449,450,Delete Node in a BST,False,Medium,0.971434161612209
+796,813,All Paths From Source to Target,False,Medium,0.9713554987212276
+1304,1427,All Elements in Two Binary Search Trees,False,Medium,0.9712984054669704
+208,209,Minimum Size Subarray Sum,False,Medium,0.9709536872680329
+339,340,Longest Substring with At Most K Distinct Characters,True,Medium,0.9707187222715173
+453,454,4Sum II,False,Medium,0.9707046714172605
+502,503,Next Greater Element II,False,Medium,0.9703824626865671
+976,1019,Squares of a Sorted Array,False,Easy,0.9703150242326333
+36,37,Sudoku Solver,False,Hard,0.970231985218641
+69,70,Climbing Stairs,False,Easy,0.9702085402184707
+102,103,Binary Tree Zigzag Level Order Traversal,False,Medium,0.9700770471241713
+130,131,Palindrome Partitioning,False,Medium,0.9700514740290126
+89,90,Subsets II,False,Medium,0.9700485129719468
+143,144,Binary Tree Preorder Traversal,False,Easy,0.9699306090979183
+151,152,Maximum Product Subarray,False,Medium,0.9698428558452176
+81,82,Remove Duplicates from Sorted List II,False,Medium,0.9696042821640222
+0,1,Two Sum,False,Easy,0.9695009541058895
+559,560,Subarray Sum Equals K,False,Medium,0.9693492612386042
+1301,1254,Deepest Leaves Sum,False,Medium,0.9687763713080169
+147,148,Sort List,False,Medium,0.968238142714713
+1447,1544,Count Good Nodes in Binary Tree,False,Medium,0.9679602888086642
+76,77,Combinations,False,Medium,0.967929292929293
+978,1021,Distribute Coins in Binary Tree,False,Medium,0.9678231673195299
+751,753,Open the Lock,False,Medium,0.9676351599852887
+234,235,Lowest Common Ancestor of a Binary Search Tree,False,Easy,0.9674887892376681
+120,121,Best Time to Buy and Sell Stock,False,Easy,0.9674076988654994
+202,203,Remove Linked List Elements,False,Easy,0.9671232876712329
+308,309,Best Time to Buy and Sell Stock with Cooldown,False,Medium,0.9669362084456424
+31,32,Longest Valid Parentheses,False,Hard,0.9668980245595301
+61,62,Unique Paths,False,Medium,0.9666824756936211
+144,145,Binary Tree Postorder Traversal,False,Easy,0.9666583727295347
+48,49,Group Anagrams,False,Medium,0.9665985003408316
+211,212,Word Search II,False,Hard,0.96639231824417
+712,713,Subarray Product Less Than K,False,Medium,0.9663843303335098
+375,376,Wiggle Subsequence,False,Medium,0.9663479923518165
+238,239,Sliding Window Maximum,False,Hard,0.966296928327645
+1350,1476,Count Negative Numbers in a Sorted Matrix,False,Easy,0.9662363455809335
+437,438,Find All Anagrams in a String,False,Medium,0.9660970608339029
+1048,1130,Last Stone Weight II,False,Medium,0.9659863945578231
+135,136,Single Number,False,Easy,0.9659126446367142
+168,169,Majority Element,False,Easy,0.9652867615351445
+209,210,Course Schedule II,False,Medium,0.9648039518369868
+115,116,Populating Next Right Pointers in Each Node,False,Medium,0.9646926657037393
+142,143,Reorder List,False,Medium,0.9643300798580302
+98,99,Recover Binary Search Tree,False,Medium,0.9640514938061695
+44,45,Jump Game II,False,Medium,0.9639040917383372
+284,285,Inorder Successor in BST,True,Medium,0.9636105860113422
+78,79,Word Search,False,Medium,0.9635515057228581
+1009,1055,Pairs of Songs With Total Durations Divisible by 60,False,Medium,0.9628443305573351
+616,617,Merge Two Binary Trees,False,Easy,0.9628015564202335
+493,494,Target Sum,False,Medium,0.9627942293090357
+423,424,Longest Repeating Character Replacement,False,Medium,0.9626394953905871
+117,118,Pascal's Triangle,False,Easy,0.9626344593319495
+296,297,Serialize and Deserialize Binary Tree,False,Hard,0.9625136102037642
+766,778,Reorganize String,False,Medium,0.9623810577561407
+762,768,Partition Labels,False,Medium,0.9623511904761904
+21,22,Generate Parentheses,False,Medium,0.962291515591008
+145,146,LRU Cache,False,Medium,0.9622729752903578
+95,96,Unique Binary Search Trees,False,Medium,0.9620645889155267
+972,1014,K Closest Points to Origin,False,Medium,0.9619894099848714
+73,74,Search a 2D Matrix,False,Medium,0.9619238476953907
+55,56,Merge Intervals,False,Medium,0.9618856569709128
+22,23,Merge k Sorted Lists,False,Hard,0.9618661942124357
+386,387,First Unique Character in a String,False,Easy,0.9613466334164589
+206,207,Course Schedule,False,Medium,0.9612059410330304
+1191,1300,Critical Connections in a Network,False,Hard,0.9611567904734902
+82,83,Remove Duplicates from Sorted List,False,Easy,0.9610162067455102
+1422,1538,Maximum Points You Can Obtain from Cards,False,Medium,0.960991615020051
+580,581,Shortest Unsorted Continuous Subarray,False,Medium,0.9602701628923321
+187,188,Best Time to Buy and Sell Stock IV,False,Hard,0.9602016449986734
+309,310,Minimum Height Trees,False,Medium,0.9600934397508273
+441,442,Find All Duplicates in an Array,False,Medium,0.959980155448983
+401,402,Remove K Digits,False,Medium,0.9598877517332453
+210,211,Design Add and Search Words Data Structure,False,Medium,0.9598593006414236
+377,378,Kth Smallest Element in a Sorted Matrix,False,Medium,0.9598463687150838
+786,803,Cheapest Flights Within K Stops,False,Medium,0.9596234309623431
+393,394,Decode String,False,Medium,0.9594493116395494
+700,784,Insert into a Binary Search Tree,False,Medium,0.9592154420921544
+1437,1549,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,False,Medium,0.9590842669264491
+524,525,Contiguous Array,False,Medium,0.9587455665484413
+15,16,3Sum Closest,False,Medium,0.9584959205391983
+930,967,Minimum Falling Path Sum,False,Medium,0.9583526145303101
+127,128,Longest Consecutive Sequence,False,Medium,0.9583286908077995
+23,24,Swap Nodes in Pairs,False,Medium,0.9582164476598258
+74,75,Sort Colors,False,Medium,0.9581866666666666
+993,1036,Rotting Oranges,False,Medium,0.9581424735428842
+346,347,Top K Frequent Elements,False,Medium,0.9580808080808081
+904,941,Sort Array By Parity,False,Easy,0.9579863739591219
+93,94,Binary Tree Inorder Traversal,False,Easy,0.9578451178451178
+19,20,Valid Parentheses,False,Easy,0.9576872319366546
+874,907,Koko Eating Bananas,False,Medium,0.9575971731448764
+114,115,Distinct Subsequences,False,Hard,0.9574533210896847
+138,139,Word Break,False,Medium,0.9572741493938209
+43,44,Wildcard Matching,False,Hard,0.9572441293752769
+278,279,Perfect Squares,False,Medium,0.9571599760335531
+2,3,Longest Substring Without Repeating Characters,False,Medium,0.9571422336664775
+783,800,Letter Case Permutation,False,Medium,0.9565485362095532
+367,368,Largest Divisible Subset,False,Medium,0.9560025141420491
+917,954,Maximum Sum Circular Subarray,False,Medium,0.9559265442404007
+256,257,Binary Tree Paths,False,Easy,0.9557633973710818
+450,451,Sort Characters By Frequency,False,Medium,0.955716787590693
+241,242,Valid Anagram,False,Easy,0.9556043956043956
+843,874,Backspace String Compare,False,Easy,0.955270729793356
+337,338,Counting Bits,False,Easy,0.9552304316020482
+645,646,Maximum Length of Pair Chain,False,Medium,0.9551020408163265

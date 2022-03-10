@@ -57,7 +57,7 @@ def loop_csv():
         for row in reader:
             slug = (row[1].split('/')[-1])
             write_to_file(get_data(slug))
-            time.sleep(2)
+            time.sleep(5)
 
 def write_to_file(data):
   with open("out.json", "a") as myfile:
